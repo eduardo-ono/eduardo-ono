@@ -9,14 +9,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 <br>
 
 <details>
-    <summary>Organização de Computadores</summary>
-    <section>
-
-* [arquitetura-e-organizacao-de-computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
-    </section>
-</details>
-
-<details>
     <summary>Desenvolvimento para Dispositivo Móvel, Web e Game</summary>
     <section>
 
@@ -24,6 +16,14 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 * [desenvolvimento-web_back-end](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
 * [desenvolvimento-mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
 * [jogos-digitais](https://github.com/eduardo-ono/jogos-digitais)
+    </section>
+</details>
+
+<details>
+    <summary>Organização de Computadores</summary>
+    <section>
+
+* [arquitetura-e-organizacao-de-computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
     </section>
 </details>
 
