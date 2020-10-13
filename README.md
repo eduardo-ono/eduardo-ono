@@ -18,7 +18,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 * [jogos-digitais](https://github.com/eduardo-ono/jogos-digitais)
     </section>
 </details>
-
 <details>
     <summary>Organização de Computadores</summary>
     <section>
@@ -26,7 +25,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 * [arquitetura-e-organizacao-de-computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
     </section>
 </details>
-
 <details>
     <summary>Sistemas Operacionais Embarcados e IoT</summary>
     <section>
