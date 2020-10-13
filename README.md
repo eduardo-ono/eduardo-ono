@@ -13,7 +13,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
     <section>
 
 * [arquitetura-e-organizacao-de-computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
-
     </section>
 </details>
 
@@ -34,7 +33,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 * [sistemas-operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
 * [sistemas-embarcados](https://github.com/eduardo-ono/sistemas-embarcados)
-
     </section>
 </details>
 
