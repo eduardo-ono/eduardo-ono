@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-I'm a software developer who is addicted to learning and loves sharing knowledge with other people. I also like listening good music and playing guitar on my spare time.
+I'm a mathematician who is addicted to learning computer science and loves sharing knowledge with other people. I also like listening good music and playing guitar on my spare time.
 
 <br>
 
