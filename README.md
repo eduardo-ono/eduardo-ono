@@ -35,7 +35,10 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 * [sistemas-operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
 * [sistemas-embarcados](https://github.com/eduardo-ono/sistemas-embarcados)
 
-<br>
+    </section>
+</details>
+
+<br><br>
 
 [<img src="https://simpleicons.org/icons/instagram.svg" width="32" height=32>](https://www.instagram.com/eduardoono1973/)
 [<img src="https://simpleicons.org/icons/facebook.svg" width="32" height=32>](https://pt-br.facebook.com/eduardo.ono)
