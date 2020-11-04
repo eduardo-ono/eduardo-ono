@@ -1,40 +1,44 @@
 ### Hi there 👋
-<br>
 
 I'm a mathematician who is addicted to learning computer science and loves sharing knowledge with other people. I also like listening good music and playing guitar on my spare time.
 
 <br>
 
 ## Disciplinas 2020_2
-<br>
 
 <details>
     <summary>Desenvolvimento para Dispositivo Móvel, Web e Game</summary>
     <section>
 
-* [desenvolvimento-web](https://github.com/eduardo-ono/desenvolvimento-web)
-* [desenvolvimento-web_back-end](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
-* [desenvolvimento-mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
-* [jogos-digitais](https://github.com/eduardo-ono/jogos-digitais)
+* [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
+* [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
+* [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
+* [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
+
     </section>
 </details>
+
 <details>
     <summary>Organização de Computadores</summary>
     <section>
 
-* [arquitetura-e-organizacao-de-computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
+* [Arquitetura e Organização de Computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
+* [Computação Quântica](https://github.com/eduardo-ono/Computacao-Quantica)
+
     </section>
 </details>
+
 <details>
     <summary>Sistemas Operacionais Embarcados e IoT</summary>
     <section>
 
-* [sistemas-operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
-* [sistemas-embarcados](https://github.com/eduardo-ono/sistemas-embarcados)
+* [Sistemas Operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
+* [Sistemas Embarcados](https://github.com/eduardo-ono/sistemas-embarcados)
+
     </section>
 </details>
 
-<br><br>
+<br>
 
 [<img src="https://simpleicons.org/icons/instagram.svg" width="32" height=32>](https://www.instagram.com/eduardoono1973/)
 [<img src="https://simpleicons.org/icons/facebook.svg" width="32" height=32>](https://pt-br.facebook.com/eduardo.ono)
