@@ -14,7 +14,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
 * [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
 * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
-
     </section>
 </details>
 
@@ -24,7 +23,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 * [Arquitetura e Organização de Computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
 * [Computação Quântica](https://github.com/eduardo-ono/Computacao-Quantica)
-
     </section>
 </details>
 
@@ -34,7 +32,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 * [Sistemas Operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
 * [Sistemas Embarcados](https://github.com/eduardo-ono/sistemas-embarcados)
-
     </section>
 </details>
 
