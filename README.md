@@ -7,7 +7,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 ## Disciplinas 2020_2
 
 <details>
-    <summary>Desenvolvimento para Dispositivo Móvel, Web e Game</summary>
+    <summary><b>Desenvolvimento para Dispositivo Móvel, Web e Game</b></summary>
     <section>
 
 * [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
@@ -18,16 +18,17 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 </details>
 
 <details>
-    <summary>Organização de Computadores</summary>
+    <summary><b>Organização de Computadores</b></summary>
     <section>
 
 * [Arquitetura e Organização de Computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
+* [Computação Gráfica e Multimídia](https://github.com/eduardo-ono/Computacao-Grafica-e-Multimidia/)
 * [Computação Quântica](https://github.com/eduardo-ono/Computacao-Quantica)
     </section>
 </details>
 
 <details>
-    <summary>Sistemas Operacionais Embarcados e IoT</summary>
+    <summary><b>Sistemas Operacionais Embarcados e IoT</b></summary>
     <section>
 
 * [Sistemas Operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
