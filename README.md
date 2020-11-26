@@ -7,18 +7,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 ## Disciplinas 2020_2
 
 <details>
-    <summary><b>Desenvolvimento para Dispositivo Móvel, Web e Game</b></summary>
-    <section>
-
-* [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
-* [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
-* [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
-* [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
-    </section>
-</details>
-
-<details>
-    <summary><b>Organização de Computadores</b></summary>
+    <summary><strong>GECO6AN: Organização de Computadores</strong></summary>
     <section>
 
 * [Arquitetura e Organização de Computadores](https://github.com/eduardo-ono/arquitetura-e-organizacao-de-computadores)
@@ -28,7 +17,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 </details>
 
 <details>
-    <summary><b>Sistemas Operacionais Embarcados e IoT</b></summary>
+    <summary><strong>GTADS2AN: Sistemas Operacionais Embarcados e IoT</strong></summary>
     <section>
 
 * [Sistemas Operacionais](https://github.com/eduardo-ono/sistemas-operacionais)
@@ -36,6 +25,16 @@ I'm a mathematician who is addicted to learning computer science and loves shari
     </section>
 </details>
 
+<details>
+    <summary><strong>GTADS4AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong></summary>
+    <section>
+
+* [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
+* [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
+* [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
+* [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
+    </section>
+</details>
 <br>
 
 [<img src="https://simpleicons.org/icons/instagram.svg" width="32" height=32>](https://www.instagram.com/eduardoono1973/)
