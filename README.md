@@ -4,6 +4,30 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 <br>
 
+## Disciplinas 2021_1
+
+<details>
+    <summary><strong>GECO5AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong></summary>
+    <section>
+
+* [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
+* [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
+* [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
+* [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
+    </section>
+</details>
+
+<details>
+    <summary><strong><a href="https://github.com/eduardo-ono/sistemas-operacionais"> GECO7AN: Sistemas Operacionais</a></strong></summary>
+</details>
+
+<details>
+    <summary><strong><a href="https://github.com/eduardo-ono/sistemas-embarcados"> GECO7AN: Sistemas Embarcados</strong></summary>
+</details>
+
+<br>
+
+
 ## Disciplinas 2020_2
 
 <details>
