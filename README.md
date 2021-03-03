@@ -22,11 +22,10 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 </details>
 
 <details>
-    <summary><strong><a href="https://github.com/eduardo-ono/sistemas-embarcados"> GECO7AN: Sistemas Embarcados</strong></summary>
+    <summary><strong><a href="https://github.com/eduardo-ono/sistemas-embarcados"> GECO7AN: Sistemas Embarcados</a></strong></summary>
 </details>
 
 <br>
-
 
 ## Disciplinas 2020_2
 
@@ -59,6 +58,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
     </section>
 </details>
+
 <br>
 
 [<img src="https://simpleicons.org/icons/instagram.svg" width="32" height=32>](https://www.instagram.com/eduardoono1973/)
