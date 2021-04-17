@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COVID-19</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    #chart-id {
+      /* width: 640px; */
+      /* height: 480px; */
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    // <block:setup:1>
+    const labels = [
+      '2015',
+      '2016',
+      '2017',
+      '2018',
+      '2019',
+      '2020',
+    ];
+    const data = {
+      labels: labels,
+      datasets: [{
+        label: 'Número de Óbitos no Brasil',
+        backgroundColor: 'rgb(255, 99, 132)',
+        borderColor: 'rgb(255, 99, 132)',
+        data: [905059, 1027740, 1070569, 1198558, 1266477, 1455522],
+      }]
+    };
+    // </block:setup>
+
+    // <block:config:0>
+    const config = {
+      type: 'bar',
+      data,
+      options: {}
+    };
+    // </block:config>
+
+    module.exports = {
+      actions: [],
+      config: config,
+    };
+
+    function main() {
+      var chart = new Chart(
+        document.getElementById('chart-id'),
+        config
+      );
+    }
+  </script>
+</head>
+<body onload="main()">
+  <div class="container" style="position: relative; height: 40vh; width: 50vw; margin-bottom: 150px;">
+    <canvas id="chart-id"></canvas>
+  </div>
+  <p>
+    Através da regressão linear com os dados de 2016 a 2019, chegamos que a estimativa de óbitos para 2020 é igual a 1.328.400.
+  </p>
+  <p>
+    Estimativa de óbitos por COVID-19 em 2020 = 1.455.522 - 1.328.400 = 127.122
+  </p>
+</body>
+</html>
