@@ -2,8 +2,6 @@
 
 I'm a mathematician who is addicted to learning computer science and loves sharing knowledge with other people. I also like listening good music and playing guitar on my spare time.
 
----
-
 ## Disciplinas 2021_1
 
   * <strong>GECO5AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
@@ -37,7 +35,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 ###
 
-  * [Estimativa de Mortes por COVID-19 em 2020](https://euardo-ono.github.io/eduardo-ono/covid-19/index.html)
+  * [Estimativa de Mortes por COVID-19 em 2020](https://eduardo-ono.github.io/eduardo-ono/covid-19/index.html)
 
 [<img src="https://simpleicons.org/icons/instagram.svg" width="32" height=32>](https://www.instagram.com/eduardoono1973/)
 [<img src="https://simpleicons.org/icons/facebook.svg" width="32" height=32>](https://pt-br.facebook.com/eduardo.ono)
