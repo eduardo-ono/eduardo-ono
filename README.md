@@ -35,7 +35,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 ## Projetos
 
-  * ### [Praising Pop](https://eduardo-ono.github.io/Praising_Pop/)
+  * ### [Praising Pop](https://eduardo-ono.github.io/Praising-Pop/)
   * ### [Estimativa de Mortes por COVID-19 em 2020](https://eduardo-ono.github.io/eduardo-ono/covid-19/index.html)
 
 <br>
