@@ -2,6 +2,20 @@
 
 I'm a mathematician who is addicted to learning computer science and loves sharing knowledge with other people. I also like listening good music and playing guitar on my spare time.
 
+## Disciplinas 2021_2
+
+  * <strong>GTADS2AN: Sistemas Operacionais Embarcados e IoT</strong>
+    * [Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)
+    * [Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)
+
+  * <strong>GTADS4AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
+    * [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
+    * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
+    * [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
+    * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
+
+<br>
+
 ## Disciplinas 2021_1
 
   * <strong>GECO5AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
