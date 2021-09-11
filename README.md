@@ -8,21 +8,34 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 <br>
 
-## Disciplinas 2021_2
+## Disciplinas
 
-  * <strong>GTADS2AN: Sistemas Operacionais Embarcados e IoT</strong>
+<details open>
+  <summary>
+    <strong>2021_2</strong>
+  </summary>
+  <section markdown="1">
+
+  * <strong>GTADS2AN - Sistemas Operacionais Embarcados e IoT</strong>
     * [Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)
     * [Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)
 
-  * <strong>GTADS4AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
+  * <strong>GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
     * [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
     * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
     * [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
     * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
 
+  </section>
+</details>
+
 <br>
 
-## Disciplinas 2021_1
+<details>
+  <summary>
+    <strong>2021_1</strong>
+  </summary>
+  <section markdown="1">
 
   * <strong>GECO5AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
     * [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
@@ -30,13 +43,12 @@ I'm a mathematician who is addicted to learning computer science and loves shari
     * [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
     * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
 
-  * <strong><a href="https://github.com/eduardo-ono/sistemas-operacionais"> GECO7AN: Sistemas Operacionais</a></strong>
+  * <strong>[GECO7AN - Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)</strong>
 
-  * <strong><a href="https://github.com/eduardo-ono/sistemas-embarcados"> GECO7AN: Sistemas Embarcados</a></strong>
+  * <strong>[GECO7AN - Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)</strong>
 
-<br>
-
-## Disciplinas Anteriores
+  </section>
+</details>
 
 <details>
   <summary>
@@ -44,9 +56,9 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   </summary>
   <section markdown="1">
 
-  * GECO6AN: Organização de Computadores
-  * GTADS2AN: Sistemas Operacionais Embarcados e IoT
-  * GTADS4AN: Desenvolvimento para Dispositivo Móvel, Web e Game
+  * <strong>GECO6AN - Organização de Computadores</strong>
+  * <strong>GTADS2AN - Sistemas Operacionais Embarcados e IoT</strong>
+  * <strong>GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
 
   </section>
 </details>
@@ -81,8 +93,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<br>
 
 <!--
 **eduardo-ono/eduardo-ono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
