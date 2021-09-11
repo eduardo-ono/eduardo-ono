@@ -90,8 +90,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ono&theme=dark)
 
-<br>
-
 <!--
 **eduardo-ono/eduardo-ono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
