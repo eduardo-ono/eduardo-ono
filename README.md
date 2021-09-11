@@ -70,12 +70,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   * ### [Praising Pop](https://eduardo-ono.github.io/Praising-Pop/)
   * ### [Estimativa de Mortes por COVID-19 em 2020](https://eduardo-ono.github.io/eduardo-ono/covid-19/index.html)
 
-<hr>
-
-![eduardo-ono's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-ono&show_icons=true&theme=github_dark)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ono&theme=dark)
-
 <br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -93,6 +87,10 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ono&theme=dark)
+
+<br>
 
 <!--
 **eduardo-ono/eduardo-ono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
