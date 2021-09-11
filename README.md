@@ -70,7 +70,7 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   * ### [Praising Pop](https://eduardo-ono.github.io/Praising-Pop/)
   * ### [Estimativa de Mortes por COVID-19 em 2020](https://eduardo-ono.github.io/eduardo-ono/covid-19/index.html)
 
-<br>
+<br><hr>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
