@@ -55,7 +55,9 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   <section markdown="1">
 
   * <strong>GECO6AN - Organização de Computadores</strong>
+
   * <strong>GTADS2AN - Sistemas Operacionais Embarcados e IoT</strong>
+
   * <strong>GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
 
   </section>
