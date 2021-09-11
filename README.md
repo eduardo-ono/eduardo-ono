@@ -29,8 +29,6 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   </section>
 </details>
 
-<br>
-
 <details>
   <summary>
     <strong>2021_1</strong>
