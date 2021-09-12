@@ -1,4 +1,4 @@
-function showAll()
+function init()
 {
   var header = document.getElementsByTagName('header')[0];
   var text = header.innerHTML;
