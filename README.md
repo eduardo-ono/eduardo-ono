@@ -16,15 +16,17 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   </summary>
   <section markdown="1">
 
-  * <strong>GTADS2AN - Sistemas Operacionais Embarcados e IoT</strong>
+  ---
+  * #### GTADS2AN - Sistemas Operacionais Embarcados e IoT
     * [Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)
     * [Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)
 
-  * <strong>GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
-    * [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
-    * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
-    * [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
-    * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
+  * #### GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game
+    * [Desenvolvimento Web](https://github.com/eduardo-ono/Desenvolvimento-Web)
+    * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/Desenvolvimento-Web_Back-End)
+    * [Desenvolvimento Mobile](https://github.com/eduardo-ono/Desenvolvimento-Mobile)
+    * [Jogos Digitais](https://github.com/eduardo-ono/Jogos-Digitais)
+  ---
 
   </section>
 </details>
@@ -35,15 +37,17 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   </summary>
   <section markdown="1">
 
-  * <strong>GECO5AN: Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
+  ---
+  * #### GECO5AN - Desenvolvimento para Dispositivo Móvel, Web e Game
     * [Desenvolvimento Web](https://github.com/eduardo-ono/desenvolvimento-web)
     * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/desenvolvimento-web_back-end)
     * [Desenvolvimento Mobile](https://github.com/eduardo-ono/desenvolvimento-mobile)
     * [Jogos Digitais](https://github.com/eduardo-ono/jogos-digitais)
 
-  * <strong>[GECO7AN - Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)</strong>
+  * #### GECO7AN - [Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)
 
-  * <strong>[GECO7AN - Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)</strong>
+  * #### GECO7AN - [Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)
+  ---
 
   </section>
 </details>
@@ -54,11 +58,13 @@ I'm a mathematician who is addicted to learning computer science and loves shari
   </summary>
   <section markdown="1">
 
-  * <strong>GECO6AN - Organização de Computadores</strong>
+  ---
+  * #### GECO6AN - Organização de Computadores
 
-  * <strong>GTADS2AN - Sistemas Operacionais Embarcados e IoT</strong>
+  * #### GTADS2AN - Sistemas Operacionais Embarcados e IoT
 
-  * <strong>GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game</strong>
+  * #### GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game
+  ---
 
   </section>
 </details>
@@ -88,7 +94,11 @@ I'm a mathematician who is addicted to learning computer science and loves shari
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ono&theme=dark)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ono&theme=dark" alt="stats">
+
+</p>
 
 <!--
 **eduardo-ono/eduardo-ono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
