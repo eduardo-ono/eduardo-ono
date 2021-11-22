@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a mathematician who is addicted to learning computer science and loves sharing knowledge with other people. I also like listening good music and playing guitar on my spare time.
+I'm a mathematician who is devoted in learning computer science and sharing knowledge with other people. I'm also into listening good music and playing guitar on my spare time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/eduardo-ono-b4a55420)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoono1973/)
