@@ -12,6 +12,27 @@ I'm a mathematician who is devoted in learning computer science and sharing know
 
 <details open>
   <summary>
+    <strong>2022_1</strong>
+  </summary>
+  <section markdown="1">
+
+  ---
+  * #### GTADS1AN - [Introdução à Programação](https://github.com/eduardo-ono/Introducao-a-Programacao)
+
+  * #### GTADS3AN - [Estrutura de Dados](https://github.com/eduardo-ono/Estrutura-de-Dados)
+
+  * #### GECO5AN - Desenvolvimento de Dispositivo Móvel, Web e Game
+    * [Desenvolvimento Web](https://github.com/eduardo-ono/Desenvolvimento-Web)
+    * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/Desenvolvimento-Web_Back-End)
+    * [Desenvolvimento Mobile](https://github.com/eduardo-ono/Desenvolvimento-Mobile)
+    * [Jogos Digitais](https://github.com/eduardo-ono/Jogos-Digitais)
+  ---
+
+  </section>
+</details>
+
+<details>
+  <summary>
     <strong>2021_2</strong>
   </summary>
   <section markdown="1">
