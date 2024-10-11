@@ -22,7 +22,7 @@ I'm a mathematician who is devoted in learning computer science and sharing know
 
   * #### Administração - MTec - PI
 
-    *[1o. ano](https://github.com/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/blob/main/administracao-mtec-pi/2024-1o-ano)
+    * [1o. ano](https://github.com/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/blob/main/administracao-mtec-pi/2024-1o-ano)
 
   * #### Desenvolvimento de Sistemas - MTec - PI
 
