@@ -8,7 +8,7 @@ I'm a mathematician who is devoted in learning computer science and sharing know
 
 <br>
 
-## Disciplinas
+## Disciplinas / Componentes Curriculares
 
 <details open>
   <summary>
