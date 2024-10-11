@@ -12,7 +12,6 @@ I'm a mathematician who is devoted in learning computer science and sharing know
 
 <details open>
   <summary>
-<<<<<<< HEAD
     <strong>2024_2</strong>
   </summary>
   <section markdown="1">
@@ -42,8 +41,6 @@ I'm a mathematician who is devoted in learning computer science and sharing know
 
 <details>
   <summary>
-=======
->>>>>>> 72c5868dc1b22296f790fcf18e11c67ea7d1f72b
     <strong>2022_2</strong>
   </summary>
   <section markdown="1">
