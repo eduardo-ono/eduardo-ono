@@ -12,12 +12,66 @@ I'm a mathematician who is devoted in learning computer science and sharing know
 
 <details open>
   <summary>
+    <strong>2024_2</strong>
+  </summary>
+  <section markdown="1">
+
+---
+
+* ### Estudos Avançados em Matemática e suas Tecnologias
+
+  * #### Administração - MTec - PI
+
+    *[1o. ano](https://github.com/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/blob/main/administracao-mtec-pi/2024-1o-ano)
+
+  * #### Desenvolvimento de Sistemas - MTec - PI
+
+    * [1o. ano](https://github.com/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/blob/main/desenvolvimento-de-sistemas-mtec-pi/2024-1o-ano)
+
+    * [2o. ano](https://github.com/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/blob/main/desenvolvimento-de-sistemas-mtec-pi/2024-2o-ano)
+
+    * [3o. ano](https://github.com/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/blob/main/desenvolvimento-de-sistemas-mtec-pi/2024-3o-ano)
+
+---
+
+  </section>
+</details>
+
+### Unisal
+
+<details>
+  <summary>
+    <strong>2022_2</strong>
+  </summary>
+  <section markdown="1">
+
+---
+* #### GTADS2AN - Sistemas Operacionais Embarcados e IoT
+
+    * [Sistemas Operacionais](https://github.com/eduardo-ono/Sistemas-Operacionais)
+    * [Sistemas Embarcados](https://github.com/eduardo-ono/Sistemas-Embarcados)
+
+* #### GTADS4AN - Desenvolvimento para Dispositivo Móvel, Web e Game
+
+    * [Desenvolvimento Web](https://github.com/eduardo-ono/Desenvolvimento-Web)
+    * [Desenvolvimento Web (Back-End)](https://github.com/eduardo-ono/Desenvolvimento-Web_Back-End)
+    * [Desenvolvimento Mobile](https://github.com/eduardo-ono/Desenvolvimento-Mobile)
+    * [Jogos Digitais](https://github.com/eduardo-ono/Jogos-Digitais)
+
+* #### GECO8AN - [Teoria de Grafos e Aplicações](https://github.com/eduardo-ono/Teoria-dos-Grafos-e-Aplicacoes)
+---
+
+  </section>
+</details>
+
+<details>
+  <summary>
     <strong>2022_1</strong>
   </summary>
   <section markdown="1">
 
   ---
-  * #### GTADS1AN - [Introdução à Programação](https://github.com/eduardo-ono/Introducao-a-Programacao)
+* #### GTADS1AN - [Introdução à Programação](https://github.com/eduardo-ono/Introducao-a-Programacao)
 
   * #### GTADS3AN - [Estrutura de Dados](https://github.com/eduardo-ono/Estrutura-de-Dados)
 
